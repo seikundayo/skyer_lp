@@ -1,0 +1,304 @@
+.top_image img{
+    position: relative;
+    width: 100%;
+    height: 700px;
+}
+.top_image h1{
+    position: absolute;
+    font-weight: bold;
+    font-size: 110px;
+    color: white;
+    top: 5%;
+    left: 2%;
+}
+.top_image p{
+    position: absolute;
+    font-weight: bold;
+    font-size: 50px;
+    color: white;
+    bottom: 230px;
+    right: 30px;
+}
+
+
+.recommendation{
+    height: 700px;
+}
+.recommendation h4{
+    font-weight: bold;
+    margin-top: 40px;
+    text-align: center;
+    font-size: 35px;
+}
+.recommendation p{
+    text-align: center;
+    line-height: 40px;
+}
+.recommendation #line_yellow{
+    background: linear-gradient(transparent 50%, yellow 50%);
+}
+.recommendation i{
+    margin-top: 20px;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 140px;
+    border-radius: 100%;
+}
+.recommendation #recommendation_text{
+    margin-bottom: 50px;
+}
+
+
+.dron_business{
+    color: white;
+    background-color: #1E93E2;
+    padding: 40px 0;
+}
+.dron_business h4{
+    font-weight: bold;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 45px;
+}
+.dron_business .image{
+    margin-top: 40px;
+    text-align: center;
+}
+.dron_business img{
+    width: 600px;
+    height: 400px;
+    text-align: center;
+}
+.dron_business p{
+    margin-top: 30px;
+    line-height: 40px;
+    text-align: center;
+}
+
+
+.performance{
+    padding: 40px 0;
+    height: 770px;
+}
+.performance h4{
+    font-weight: bold;
+    text-align: center;
+    font-size: 45px;
+    padding: 40px 0;
+}
+.performance img{
+    width: 270px;
+    height: 270px;
+    margin: 10px 0;
+}
+
+
+.teacher{
+    color: white;
+    padding: 40px 0;
+    background-color: #1E93E2;
+    height: 700px;
+}
+.teacher h4{
+    font-weight: bold;
+    text-align: center;
+    font-size: 45px;
+    padding: 40px 0;
+}
+.teacher img{
+    width: 450px;
+    height: 450px;
+}
+.teacher h5{
+    font-size: 30px;
+}
+
+
+.student_voice{
+    padding: 40px 0;
+    height: 740px;
+}
+.student_voice h4{
+    font-weight: bold;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 35px;
+    padding: 40px 0;
+}
+.student_voice p{
+    font-size: 20px;
+    text-align: center;
+}
+.student_voice .image{
+    text-align: center;
+}
+.student_voice img{
+    margin-bottom: 40px;
+    width: 250px;
+    height: 300px;
+}
+
+
+.fee{
+    padding: 40px 0;
+    height: 900px;
+    background-color: #1E93E2;
+}
+.fee h4{
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    font-size: 45px;
+    padding: 40px 0 5px 0;
+}
+.fee p{
+    color: white;
+    text-align: center;
+}
+.fee .content{
+    margin: 0 auto;
+    text-align: center;
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px 0;
+    width: 800px;
+    height: 590px;
+}
+.fee ul li{
+    list-style: none;
+}
+.fee h5{
+    font-size: 30px;
+    font-weight: bold;
+}
+.fee h1#price{
+    font-size: 50px;
+    font-weight: bold;
+}
+.fee ul li{
+    margin-left: 200px;
+    line-height: 40px;
+    font-size: 20px;
+    text-align: left;
+}
+.fee .submit{
+    background-color: #eb5e6b;
+    font-size: 30px;
+    border-radius: 5px;
+    padding: 10px 0;
+    width: 90%;
+    margin: 0 auto;
+    color: white;
+    margin-top: 20px;
+}
+
+
+
+.benefits{
+    padding: 40px 0;
+    height: 500px;
+    background-color: #d87575;
+}
+.benefits h4{
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    font-size: 45px;
+    padding: 40px 0 5px 0;
+}
+.benefits h5{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 40px;
+}
+.benefits p{
+    text-align: center;
+    color: white;
+    line-height: 40px;
+}
+.benefits .submit{
+    text-align: center;
+    border: solid 4px white;
+    font-size: 30px;
+    border-radius: 5px;
+    padding: 10px 0;
+    width: 20%;
+    margin: 0 auto;
+    color: white;
+    margin-top: 20px;
+}
+
+
+.sample{
+    padding: 40px 0;
+    height: 800px;
+}
+.sample h4{
+    font-weight: bold;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 45px;
+    padding: 40px 0;
+}
+.sample .youtube{
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+.experience{
+    color: white;
+    padding: 40px 0;
+    height: 1000px;
+    background-color: #1E93E2;
+}
+.experience h4{
+    font-weight: bold;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 45px;
+    padding: 40px 0;
+}
+.experience .image{
+    text-align: center;
+}
+.experience p{
+    margin-top: -10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
+.application{
+    padding: 40px 0;
+    height: 700px;
+}
+.application h4{
+    font-weight: bold;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 35px;
+    padding: 40px 0;
+}
+
+
+.form{
+    padding: 40px 0;
+    height: 700px;
+    background-color: silver;
+}
+.form h4{
+    font-weight: bold;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 35px;
+    padding: 40px 0;
+}
+.form form{
+    width: 800px;
+    margin: 0 auto;
+}
+.form form label{
+    font-size: 24px;
+}
